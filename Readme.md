@@ -49,7 +49,7 @@ This project is a Low-Level Design (LLD) implementation of an Uber-like ride-boo
 1. **Clone this repository**:
     ```bash
     git clone https://github.com/your-username/UberLLD-Java.git
-    cd UberLLD-Java/src
+    cd UberLLD-Java
     ```
 
 2. **Compile all `.java` files**:
