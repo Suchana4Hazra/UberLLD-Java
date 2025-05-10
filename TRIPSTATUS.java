@@ -1,0 +1,9 @@
+public enum TRIPSTATUS{
+
+    REQUESTED,
+    BOOKED,
+    STARTED,
+    ONGOING,
+    COMPLETED,
+    CANCELLED
+}
