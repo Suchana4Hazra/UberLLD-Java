@@ -7,7 +7,7 @@ This project is a Low-Level Design (LLD) implementation of an Uber-like ride-boo
 
 ## 📁 Directory Structure
 
- UberLLD-Java
+    UberLLD-Java
     ├── Main.java
     ├── Driver.java
     ├── Rider.java
@@ -40,7 +40,7 @@ This project is a Low-Level Design (LLD) implementation of an Uber-like ride-boo
 ## 🖼️ Class Diagram
 
 > 📌 **Class Diagram** (Design Overview)  
-> ![Class Diagram](8134d5cf-93d5-4564-b240-9ef408f2aca3.png)
+> ![Class Diagram](uber_lld.png)
 
 ---
 
